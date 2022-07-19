@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dinaIgit/BooksProject/static/css/main.086b42b4.chunk.css",
+    "main.js": "/dinaIgit/BooksProject/static/js/main.8c0888c6.chunk.js",
+    "main.js.map": "/dinaIgit/BooksProject/static/js/main.8c0888c6.chunk.js.map",
+    "runtime-main.js": "/dinaIgit/BooksProject/static/js/runtime-main.95e2c86e.js",
+    "runtime-main.js.map": "/dinaIgit/BooksProject/static/js/runtime-main.95e2c86e.js.map",
+    "static/js/2.e85f9d71.chunk.js": "/dinaIgit/BooksProject/static/js/2.e85f9d71.chunk.js",
+    "static/js/2.e85f9d71.chunk.js.map": "/dinaIgit/BooksProject/static/js/2.e85f9d71.chunk.js.map",
+    "index.html": "/dinaIgit/BooksProject/index.html",
+    "static/css/main.086b42b4.chunk.css.map": "/dinaIgit/BooksProject/static/css/main.086b42b4.chunk.css.map",
+    "static/js/2.e85f9d71.chunk.js.LICENSE.txt": "/dinaIgit/BooksProject/static/js/2.e85f9d71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e2c86e.js",
+    "static/js/2.e85f9d71.chunk.js",
+    "static/css/main.086b42b4.chunk.css",
+    "static/js/main.8c0888c6.chunk.js"
+  ]
+}
